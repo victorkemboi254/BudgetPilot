@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049297708828",
+    "project_id": "budgetpilot-c9a21",
+    "storage_bucket": "budgetpilot-c9a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049297708828:android:70514c087968b27e6d7cd9",
+        "android_client_info": {
+          "package_name": "com.victor.budgetpilot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATpGTs_MCqDNleCxp4HitKQo4U02wKoNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
